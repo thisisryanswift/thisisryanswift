@@ -5,7 +5,7 @@
 👋 Heyo, I'm Ryan Swift. I'm a team member at Major League Hacking. I work on developer tools, AI demos, and automation with a focus on Python, TypeScript, and Rust.
 
 - 📍 Location: Jersey City > NYC
-- 🎓 Education: Rutgers University
+- 🎓 Education: Information Technology @ Rutgers University (Class of 2018)
 - 📅 Hacking Since: 2012
 
 ## Featured Projects
