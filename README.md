@@ -1,5 +1,11 @@
 [![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
 [![Followers](https://img.shields.io/github/followers/thisisryanswift?label=Followers&style=flat-square)](https://github.com/thisisryanswift)
+[![Total Stars](https://img.shields.io/github/stars/thisisryanswift?style=flat-square&label=Total%20Stars)](https://github.com/thisisryanswift?tab=repositories)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thisisryanswift&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisryanswift&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ## About
 👋 Heyo, I'm Ryan Swift. I'm a team member at Major League Hacking. I work on developer tools, AI demos, and automation with a focus on Python, TypeScript, and Rust.
