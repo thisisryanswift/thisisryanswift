@@ -1,23 +1,24 @@
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/thisisryanswift)
-[![Followers](https://img.shields.io/github/followers/thisisryanswift?label=Followers&style=flat-square)](https://github.com/thisisryanswift)
+<!-- Template:
+[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
+[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
 ## About
-👋 Heyo, I'm Ryan Swift. I'm a Director of Community Operations at Major League Hacking. I work on building and supporting the hacker community, with a technical focus on automation, CLI tools, and developer experience.
+👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
 
-- 📍 Location: Jersey City, NJ
-- 🎓 Education: Rutgers University
-- 📅 Hacking Since: 2012
+- 📍 Location: [Your City, State]
+- 🎓 Education: [Your University or School]
+- 📅 Hacking Since: [Year you started coding/hacking]
 
 ## Featured Projects
-- 🧩 [klaus-ai](https://github.com/thisisryanswift/klaus-ai) — A hack that explains how to setup and play a brand new board game. (TypeScript)
-- 📡 [envoy](https://github.com/thisisryanswift/envoy) — Telegram bot gateway to OpenCode - Chat with your codebase from anywhere via Telegram. (TypeScript)
-- 🐚 [sesh](https://github.com/thisisryanswift/sesh) — Unified session manager combining zoxide, try, and Zellij. (Shell)
-- 👤 [thisisryanswift](https://github.com/thisisryanswift/thisisryanswift) — Personal repository and profile info. (Markdown)
+- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
+- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
+- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
 
 ## Tech & Interests
-- 🧰 Languages: TypeScript, Rust, Python, Shell, Astro
-- 🔭 Focus: Community Operations, Automation, Developer Tools
-- ❤️ Interests: Open Source, Hackathons, Personal Productivity
+- 🧰 Languages: [Language 1], [Language 2], [Language 3]
+- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
+- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
+-->
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
