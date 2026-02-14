@@ -1,24 +1,22 @@
-<!-- Template:
 [![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Followers](https://img.shields.io/github/followers/thisisryanswift?label=Followers&style=flat-square)](https://github.com/thisisryanswift)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm Ryan Swift. I'm a Director of Community Operations at Major League Hacking. I work on AI-powered developer tools, hackathon platforms, and open-source projects with a focus on Python, TypeScript, and Rust.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: NYC
+- 🎓 Education: Information Technology, Rutgers, The State University of New Jersey (Class of 2018)
+- 📅 Hacking Since: 2012
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🤖 [envoy](https://github.com/thisisryanswift/envoy) — A Telegram bot gateway to OpenCode that lets you chat with and manage your codebase from anywhere via Telegram. (TypeScript)
+- 🎲 [klaus-ai](https://github.com/thisisryanswift/klaus-ai) — An AI board game companion that parses PDF rules and uses live video/audio to help players learn and play complex games. (TypeScript)
+- 🛠️ [github-readme-template](https://github.com/thisisryanswift/github-readme-template) — A template for personal repo readmes on GitHub. (Markdown)
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: Python, TypeScript, Rust, Shell
+- 🔭 Focus: AI Agents, Developer Productivity, Open Source
+- ❤️ Interests: Hackathons, Linux, Board Games, Crunchy Multi-player Games
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
