@@ -1,24 +1,23 @@
-<!-- Template:
 [![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm Ryan Swift. I'm a developer at Major League Hacking and previously served as the Director of Community Operations. I work on building tools for hackers, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and AI-powered applications.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Jersey City > NYC
+- 🎓 Education: Information Technology @ Rutgers, The State University of New Jersey
+- 📅 Hacking Since: 2012
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎲 [github-readme-template](https://github.com/thisisryanswift/github-readme-template) — A template for personal repo readmes on GitHub.
+- 🛠️ [opencode-notifications](https://github.com/thisisryanswift/opencode-notifications) — Simple plugin for OpenCode notifications across platforms. ([TypeScript])
+- 🤖 [quinoa](https://github.com/thisisryanswift/quinoa) — A meeting recording and transcription app for Linux. ([Python])
+- 🧩 [klaus-ai](https://github.com/thisisryanswift/klaus-ai) — A hack that explains how to setup and play a brand new board game. ([TypeScript])
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: TypeScript, Python, Rust
+- 🔭 Focus: Developer Experience, AI Agents
+- ❤️ Interests: Hackathons, Open Source, Mechanical Keyboards
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
