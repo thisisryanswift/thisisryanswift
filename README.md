@@ -2,9 +2,9 @@
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
 ## About
-👋 Heyo, I'm Ryan Swift. I'm just some guy who works at MLH. I work on building tools for hackers, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and AI-powered applications.
+👋 Heyo, I'm Ryan Swift. I'm a former Director of Community Operations at Major League Hacking (MLH). I work on building tools for hackers, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and AI-powered applications. Hey Hack Days!
 
-- 📍 Location: Jersey City > NYC
+- 📍 Location: US (Jersey City > NYC)
 - 🎓 Education: Information Technology @ Rutgers, The State University of New Jersey
 - 📅 Hacking Since: 2012
 
