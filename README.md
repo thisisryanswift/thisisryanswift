@@ -1,26 +1,26 @@
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/thisisryanswift?label=Followers&style=flat-square)](https://github.com/thisisryanswift)
-
 ## About
-👋 Heyo, I'm Ryan Swift. I'm a Director of Community Operations at Major League Hacking. I work on web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps.
+
+👋 Heyo, I'm Ryan Swift. I'm a Director of Community Operations at Major League Hacking. I build web services, AI tooling, and hackathon demos with a focus on Python, TypeScript, Rust, and developer automation.
 
 - 📍 Location: Jersey City > NYC
-- 🎓 Education: Rutgers, The State University of New Jersey
+- 🎓 Education: Information Technology @ Rutgers, The State University of New Jersey
 - 📅 Hacking Since: 2012
 
 ## Featured Projects
+
+- 🎙️ [quinoa](https://github.com/thisisryanswift/quinoa) — A Linux meeting recorder and transcription app using PipeWire (Rust/PyO3) and Gemini with speaker diarization (Python)
+- 🖥️ [zellij-agent-tools](https://github.com/thisisryanswift/zellij-agent-tools) — User-approved Zellij terminal pane tools and MCP server for coding agents (Rust)
 - 🤖 [envoy](https://github.com/thisisryanswift/envoy) — Telegram bot gateway to OpenCode - Chat with your codebase from anywhere via Telegram (TypeScript)
-- 🎙️ [quinoa](https://github.com/thisisryanswift/quinoa) — A meeting recording and transcription app for Linux (Python)
-- 🤖 [klaus-ai](https://github.com/thisisryanswift/klaus-ai) — A hack that explains how to setup and play a brand new board game (TypeScript)
-- 🎲 [ghw-api](https://github.com/thisisryanswift/ghw-api) — Quick demo for a python flask chat app powered by Gemini. (Python)
-- 🛠️ [github-readme-template](https://github.com/thisisryanswift/github-readme-template) — A template for personal repo readmes on GitHub (GitHub)
-- 🤖 [opencode-notifications](https://github.com/thisisryanswift/opencode-notifications) — Simple plugin for OpenCode notifications across platforms (TypeScript)
+- 🔔 [opencode-notifications](https://github.com/thisisryanswift/opencode-notifications) — Multi-platform notification plugin for OpenCode (TypeScript)
+- 🎲 [klaus-ai](https://github.com/thisisryanswift/klaus-ai) — An AI hack that explains rules and setup for board games (TypeScript)
 
 ## Tech & Interests
-- 🧰 Languages: Python, TypeScript, HTML
-- 🔭 Focus: AI, Open Source, Hackathons
+
+- 🧰 Languages: Python, TypeScript, Rust, Shell
+- 🔭 Focus: AI Agents, MCP Tooling, Developer Ergonomics, Open Source
 - ❤️ Interests: Board games, Linux, Automation
 
+Generated live at SteelHacks 2026! ⚙️
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
