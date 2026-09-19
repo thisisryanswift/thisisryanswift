@@ -1,0 +1,21 @@
+README.md
+  s_870e40001920e5::t_d0e5c62eeca982 18-20
+  s_870e40001920e5::t_9b6ada95dbb33f 23
+  s_870e40001920e5::t_b8d8d1ae987f77 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4b3feebe9a688cd4b7686a967433ba30f05448cf",
+  "prompts": {},
+  "sessions": {
+    "s_870e40001920e5": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "a7cf0de0-06e9-4d53-9824-7f59143f0509",
+        "model": "copilot/gemini-3.8-flash"
+      },
+      "human_author": "Ryan Swift <ryan@mlh.io>"
+    }
+  }
+}
