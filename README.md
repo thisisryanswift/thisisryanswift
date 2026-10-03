@@ -1,26 +1,24 @@
+<!-- Template:
+[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
+[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+
 ## About
+👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
 
-👋 Heyo, I'm Ryan Swift. I'm a Director of Community Operations at Major League Hacking. I build web services, AI tooling, and hackathon demos with a focus on Python, TypeScript, Rust, and developer automation.
-
-- 📍 Location: Jersey City > NYC
-- 🎓 Education: Information Technology @ Rutgers, The State University of New Jersey
-- 📅 Hacking Since: 2012
+- 📍 Location: [Your City, State]
+- 🎓 Education: [Your University or School]
+- 📅 Hacking Since: [Year you started coding/hacking]
 
 ## Featured Projects
-
-- 🎙️ [quinoa](https://github.com/thisisryanswift/quinoa) — A Linux meeting recorder and transcription app using PipeWire (Rust/PyO3) and Gemini with speaker diarization (Python)
-- 🖥️ [zellij-agent-tools](https://github.com/thisisryanswift/zellij-agent-tools) — User-approved Zellij terminal pane tools and MCP server for coding agents (Rust)
-- 🤖 [envoy](https://github.com/thisisryanswift/envoy) — Telegram bot gateway to OpenCode - Chat with your codebase from anywhere via Telegram (TypeScript)
-- 🔔 [opencode-notifications](https://github.com/thisisryanswift/opencode-notifications) — Multi-platform notification plugin for OpenCode (TypeScript)
-- 🎲 [klaus-ai](https://github.com/thisisryanswift/klaus-ai) — An AI hack that explains rules and setup for board games (TypeScript)
+- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
+- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
+- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
 
 ## Tech & Interests
-
-- 🧰 Languages: Python, TypeScript, Rust, Shell
-- 🔭 Focus: AI Agents, MCP Tooling, Developer Ergonomics, Open Source
-- ❤️ Interests: Board games, Linux, Automation
-
-Generated live at SteelHacks 2026! ⚙️
+- 🧰 Languages: [Language 1], [Language 2], [Language 3]
+- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
+- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
+-->
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
