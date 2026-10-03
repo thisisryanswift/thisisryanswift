@@ -12,7 +12,6 @@
 - 🎙️ [quinoa](https://github.com/thisisryanswift/quinoa) — A meeting recording and transcription app for Linux (Python) — github.com/thisisryanswift/quinoa
 - 🛠️ [zellij-agent-tools](https://github.com/thisisryanswift/zellij-agent-tools) — User-approved Zellij pane tools and MCP for coding agents (Rust) — github.com/thisisryanswift/zellij-agent-tools
 - 🎲 [klaus-ai](https://github.com/thisisryanswift/klaus-ai) — A hack that explains how to setup and play a brand new board game (TypeScript) — github.com/thisisryanswift/klaus-ai
-- 🏠 [homelab](https://github.com/thisisryanswift/homelab) — Tailnet topology, fleet automation, service configs, and runbooks — github.com/thisisryanswift/homelab
 
 ## Tech & Interests
 - 🧰 Languages: Python, TypeScript, Rust, Shell
