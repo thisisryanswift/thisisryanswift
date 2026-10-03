@@ -1,24 +1,23 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://mlh.io)
+[![Followers](https://img.shields.io/github/followers/thisisryanswift?label=Followers&style=flat-square)](https://github.com/thisisryanswift)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm Ryan Swift. I work at Major League Hacking, building developer tools, agent workflows, and hackathon projects with a focus on Python, Rust, and TypeScript.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Jersey City > NYC
+- 🎓 Education: Rutgers (Information Technology)
+- 📅 Hacking Since: 2012
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎙️ [quinoa](https://github.com/thisisryanswift/quinoa) — A meeting recording and transcription app for Linux (Python) — github.com/thisisryanswift/quinoa
+- 🛠️ [zellij-agent-tools](https://github.com/thisisryanswift/zellij-agent-tools) — User-approved Zellij pane tools and MCP for coding agents (Rust) — github.com/thisisryanswift/zellij-agent-tools
+- 🎲 [klaus-ai](https://github.com/thisisryanswift/klaus-ai) — A hack that explains how to setup and play a brand new board game (TypeScript) — github.com/thisisryanswift/klaus-ai
+- 🏠 [homelab](https://github.com/thisisryanswift/homelab) — Tailnet topology, fleet automation, service configs, and runbooks — github.com/thisisryanswift/homelab
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: Python, TypeScript, Rust, Shell
+- 🔭 Focus: AI Agent Tooling & MCPs, Linux Desktop Workflows, Developer Tooling
+- ❤️ Interests: Terminal Multiplexers (Zellij), Board Games, Hackathons
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
